@@ -1,17 +1,17 @@
-# Hi there, I'm Azat ESER <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Samet ALUÇLU <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## I'm a Fullstack Developer
 
 - 🌱 I am currently learning more about fullstack development.
-- 📫 What is the best way to contact me? [Linkedin](linkedin.com/in/azat-eser-304a46221)
-- 😄 Pronouns: He/Him ![](https://komarev.com/ghpvc/?username=azateser&color=0ca4a5)
+- 📫 What is the best way to contact me? [Linkedin](linkgelecek)
+- 😄 Pronouns: He/Him ![](linkgelecek)
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azateser/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/azat-eser-304a46221)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azatesser)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/azateser)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sametaluclu/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](llinkgelecek)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sametaluclu)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/sametaluclu)
 
 [![Apple](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 
@@ -42,7 +42,7 @@ VS Code
 
 ```
 
-Last Updated on 17/02/2022 16:20:10 UTC
+Last Updated on 30/03/2022 16:20:10 UTC
 
 <!--END_SECTION:waka-->
 
