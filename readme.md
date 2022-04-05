@@ -5,15 +5,11 @@
 ## I'm a Fullstack Developer
 
 - 🌱 I am currently learning more about fullstack development.
-- 📫 What is the best way to contact me? [Linkedin](linkgelecek)
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/samet-alu%C3%A7lu-70b984229)
 - 😄 Pronouns: He/Him ![](linkgelecek)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sametaluclu/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](llinkgelecek)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sametaluclu)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/sametaluclu)
-
-[![Apple](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samet-alu%C3%A7lu-70b984229)
 
 ---
 
