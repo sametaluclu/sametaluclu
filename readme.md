@@ -18,7 +18,6 @@
 📊 **This Week I Spent My Time On**
 
 ```text
-⌚︎ Time Zone: Turkey/Istanbul
 
 💬 Programming Languages:
 
