@@ -36,8 +36,6 @@ VS Code
 
 ```
 
-Last Updated on 30/03/2022 16:20:10 UTC
-
 <!--END_SECTION:waka-->
 
 ---
