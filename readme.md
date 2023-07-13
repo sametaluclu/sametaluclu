@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sametaluclu/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samet-alu%C3%A7lu-70b984229)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=Javascript&logoColor=F0DB4F)
-[![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=61DBFB)]
+![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=61DBFB)
 
 [![Apple](https://img.shields.io/badge/Huawei-Matebook_D15-999999?style=for-the-badge&logo=Huawei&logoColor=CF0A2C&color=232527)](#)
 
